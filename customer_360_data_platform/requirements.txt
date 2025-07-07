@@ -1,0 +1,8 @@
+boto3
+confluent-kafka
+snowflake-connector-python
+fastapi
+uvicorn
+streamlit
+pandas
+requests

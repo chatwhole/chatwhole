@@ -11,9 +11,11 @@ This project demonstrates a high-impact Customer 360 Data Platform that integrat
 - Rule-based personalization engine with investment recommendations.
 - Compliance with data anonymization and audit logging.
 - Interactive Streamlit UI for customer profiles and recommendations.
+- AI Analytics integration with AWS SageMaker, Comprehend, and Forecast.
+- Modular Terraform infrastructure for scalable cloud deployment.
 
 ## Prerequisites
-- AWS account with access to Lambda, S3, and Redshift.
+- AWS account with access to Lambda, S3, Redshift, SageMaker, Comprehend, and Forecast.
 - Kafka setup (local or Confluent Cloud).
 - Snowflake account with database and schema created.
 - Python 3.8+ environment.
