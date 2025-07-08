@@ -32,7 +32,7 @@ A scalable, cloud-native platform integrating customer data from multiple source
 - Access API and UI locally.
 
 ### More Details
-Connect with [ChatWhole](https://chatwhole.com/contact#contact) for more project details.
+Connect with [ChatWhole](https://chatwhole.com) for more project details.
 
 ---
 
@@ -56,7 +56,7 @@ Multi-channel AI customer support agent with chat, email, and voice support usin
 - AWS Lambda deployment with Docker.
 
 ### More Details
-Connect with [ChatWhole](https://chatwhole.com/contact#contact) for more project details.
+Connect with [ChatWhole](https://chatwhole.com) for more project details.
 
 ---
 
@@ -65,7 +65,7 @@ Connect with [ChatWhole](https://chatwhole.com/contact#contact) for more project
 *(Details omitted for brevity; similar structure with backend, frontend, deployment)*
 
 ### More Details
-Connect with [ChatWhole](https://chatwhole.com/contact#contact) for more project details.
+Connect with [ChatWhole](https://chatwhole.com) for more project details.
 
 ---
 
@@ -81,7 +81,7 @@ AI-powered financial planning with personalized investment advice and portfolio 
 - FastAPI backend.
 
 ### More Details
-Connect with [ChatWhole](https://chatwhole.com/contact#contact) for more project details.
+Connect with [ChatWhole](https://chatwhole.com) for more project details.
 
 ---
 
@@ -97,7 +97,7 @@ AI assistant for e-commerce operations including inventory management, order pro
 - React frontend and FastAPI backend.
 
 ### More Details
-Connect with [ChatWhole](https://chatwhole.com/contact#contact) for more project details.
+Connect with [ChatWhole](https://chatwhole.com) for more project details.
 
 ---
 
@@ -114,7 +114,7 @@ AI-powered legal assistant for contract review, clause library search, and docum
 - FastAPI backend.
 
 ### More Details
-Connect with [ChatWhole](https://chatwhole.com/contact#contact) for more project details.
+Connect with [ChatWhole](https://chatwhole.com) for more project details.
 
 ---
 
@@ -131,7 +131,7 @@ Personal AI health assistant for symptom checking, fitness coaching, diet planni
 - HIPAA-compliant backend.
 
 ### More Details
-Connect with [ChatWhole](https://chatwhole.com/contact#contact) for more project details.
+Connect with [ChatWhole](https://chatwhole.com) for more project details.
 
 ---
 
@@ -148,7 +148,7 @@ AI-driven crypto trading bot with signal generation, market sentiment analysis, 
 - Logging and alerting with Telegram bot.
 
 ### More Details
-Connect with [ChatWhole](https://chatwhole.com/contact#contact) for more project details.
+Connect with [ChatWhole](https://chatwhole.com) for more project details.
 
 ---
 
