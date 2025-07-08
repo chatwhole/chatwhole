@@ -31,6 +31,9 @@ A scalable, cloud-native platform integrating customer data from multiple source
 - Run the Streamlit UI.
 - Access API and UI locally.
 
+### More Details
+Connect with [ChatWhole](https://chatwhole.com/contact#contact) for more project details.
+
 ---
 
 ## 2. AI Customer Support Agent (CX Automation)
@@ -52,11 +55,17 @@ Multi-channel AI customer support agent with chat, email, and voice support usin
 - Twilio for voice/SMS.
 - AWS Lambda deployment with Docker.
 
+### More Details
+Connect with [ChatWhole](https://chatwhole.com/contact#contact) for more project details.
+
 ---
 
 ## 3. AI Content Creation Agent
 
 *(Details omitted for brevity; similar structure with backend, frontend, deployment)*
+
+### More Details
+Connect with [ChatWhole](https://chatwhole.com/contact#contact) for more project details.
 
 ---
 
@@ -71,6 +80,9 @@ AI-powered financial planning with personalized investment advice and portfolio 
 - Interactive React frontend dashboard.
 - FastAPI backend.
 
+### More Details
+Connect with [ChatWhole](https://chatwhole.com/contact#contact) for more project details.
+
 ---
 
 ## 5. AI E-commerce Operations Agent
@@ -83,6 +95,9 @@ AI assistant for e-commerce operations including inventory management, order pro
 - Order management automation.
 - Customer interaction via chat.
 - React frontend and FastAPI backend.
+
+### More Details
+Connect with [ChatWhole](https://chatwhole.com/contact#contact) for more project details.
 
 ---
 
@@ -98,6 +113,9 @@ AI-powered legal assistant for contract review, clause library search, and docum
 - React dashboard UI.
 - FastAPI backend.
 
+### More Details
+Connect with [ChatWhole](https://chatwhole.com/contact#contact) for more project details.
+
 ---
 
 ## 7. AI Personal Health Agent
@@ -112,6 +130,9 @@ Personal AI health assistant for symptom checking, fitness coaching, diet planni
 - Medication reminders.
 - HIPAA-compliant backend.
 
+### More Details
+Connect with [ChatWhole](https://chatwhole.com/contact#contact) for more project details.
+
 ---
 
 ## 8. Autonomous Crypto Trading Agent
@@ -125,6 +146,9 @@ AI-driven crypto trading bot with signal generation, market sentiment analysis, 
 - Trade execution via Binance API.
 - Strategy layer supporting multiple trading strategies.
 - Logging and alerting with Telegram bot.
+
+### More Details
+Connect with [ChatWhole](https://chatwhole.com/contact#contact) for more project details.
 
 ---
 
@@ -150,12 +174,6 @@ For questions or support, please contact the project maintainer.
 
 ---
 
-* This unified README provides a comprehensive overview of all AI projects in this repository for easy navigation and understanding.
+*This unified README provides a comprehensive overview of all AI projects in this repository for easy navigation and understanding.*
 
 ---
-
-## More Projects and Details
-
-For more AI projects, detailed documentation, and updates, please visit:
-
-[https://chatwhole.com](https://chatwhole.com)
